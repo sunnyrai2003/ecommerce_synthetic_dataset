@@ -18,6 +18,6 @@ Contains text reviews written by customers about products they have purchased, a
 
 ## **Kaggle Link**
 
-You can access the dataset on Kaggle [here](https://storage.googleapis.com/kagglesdsdata/datasets/6043209/9849088/ecommerce_synthetic_dataset).
+You can access the dataset on Kaggle [here].
 
 
